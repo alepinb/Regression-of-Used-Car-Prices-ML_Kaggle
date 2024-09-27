@@ -1,0 +1,72 @@
+{
+  "fields": [
+    {
+      "name": "id",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "brand",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "model",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "model_year",
+      "type": "year",
+      "format": "default"
+    },
+    {
+      "name": "milage",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "fuel_type",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "engine",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "transmission",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "ext_col",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "int_col",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "accident",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "clean_title",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "price",
+      "type": "integer",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
