@@ -1,6 +1,6 @@
 # Regression of Used Car Prices - ML Kaggle
 
-Este proyecto tiene como objetivo predecir el **precio de autos usados** utilizando varios atributos del vehículo. Utilizamos técnicas de **Machine Learning** y **análisis de datos** para crear un modelo que realice predicciones precisas basadas en la información disponible en el dataset.
+Este proyecto tiene como objetivo predecir el **precio de autos usados** utilizando varios atributos del vehículo. Utilizamos técnicas de **Machine Learning** y **análisis de datos** para crear un modelo que realiza predicciones precisas basadas en la información disponible en el dataset.
 
 ## Estructura del Proyecto
 
